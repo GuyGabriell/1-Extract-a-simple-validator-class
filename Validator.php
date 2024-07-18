@@ -1,6 +1,6 @@
 <?php 
 
-
+//this is also known as pure function 
 
 
 
