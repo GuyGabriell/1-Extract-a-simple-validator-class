@@ -13,6 +13,9 @@ $db = new Database($config['database']);
 $heading = 'Create Note';
 
 
+//dd(Validator::email('joe@example.com'));
+
+
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
